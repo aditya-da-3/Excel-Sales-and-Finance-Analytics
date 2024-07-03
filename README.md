@@ -1,46 +1,58 @@
-# Excel-Sales-&-Finance-Analytics
+# Project Objectives
 
-## Sales Report :
+This project is focused on achieving the following key objectives:
 
+## Sales Report
 
-- **Project objective:** 
+1. **Customer Performance Report:**
+   - Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
 
-    **1.** Create a _[customer performance report](https://github.com/aditya-da-3/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+2. **Market Performance and Sales Targets Comparison:**
+   - Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/aditya-da-3/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+## Finance Report
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+1. **Profit and Loss (P&L) Reports by Fiscal Year and Months:**
+   - Generate Profit and Loss reports categorized by fiscal year and months to evaluate financial performance over different time frames.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+2. **Profit and Loss (P&L) Reports by Markets:**
+   - Create Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous periods.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+# Lessons Learned
 
+Through the completion of this project, I gained valuable insights and developed several skills, both technical and soft skills. Here's what I learned:
 
-## Finance Report :
+## Technical Skills
 
-- **Project objective:** 
+- **Data Analysis Techniques:** Utilized ETL (Extract, Transform, Load) methodology for processing data efficiently.
+- **Power Query:** Demonstrated proficiency in generating a date table and deriving fiscal months and quarters.
+- **Power Pivot:** Established data model relationships and incorporated supplementary data effectively.
+- **DAX (Data Analysis Expressions):** Used DAX to create calculated columns for advanced analytics.
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/aditya-da-3/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/aditya-da-3/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+## Soft Skills
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/aditya-da-3/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+- **Report Design:** Developed a refined understanding of designing user-centric reports with empathy in mind.
+- **Optimization:** Acquired skills in optimizing report generation through meticulous fine-tuning.
+- **Systematic Approach:** Developed a systematic approach to devising a report-building plan, enhancing efficiency.
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+## Project Management
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Strategic Thinking:** Aligned financial planning with strategic goals, contributing to a comprehensive understanding of organizational financial outlook.
+- **Communication:** Improved communication skills by presenting complex financial data in a clear and understandable format.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+## Continuous Learning
 
+- **Adaptability:** Embraced new tools and techniques, showcasing adaptability in a dynamic work environment.
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+## Conclusion
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+This project not only allowed me to apply my technical skills but also provided a platform for continuous learning and improvement. The experience gained is instrumental in my journey as a data professional, and I look forward to applying these skills in future projects.
+
+# Report Links
+
+- [Customer Performance Report](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20Customer%20Performance%20Report.pdf)
+- [Market Performance VS Sales Targets Report](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20Market%20Performance%20Report.pdf)
+- [Profit and Loss (P&L) Report by Fiscal Year](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Months.pdf)
+- [Profit and Loss (P&L) Report by Months](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Months.pdf)
+- [Profit and Loss (P&L) Report by Markets](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Markets.pdf)
+- [Gross Margin (GM%) for (sub_zones) Report by Quarters](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Markets.pdf)

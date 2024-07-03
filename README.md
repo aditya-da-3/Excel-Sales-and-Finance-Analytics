@@ -55,4 +55,4 @@ This project not only allowed me to apply my technical skills but also provided 
 - [Profit and Loss (P&L) Report by Fiscal Year](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Months.pdf)
 - [Profit and Loss (P&L) Report by Months](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Months.pdf)
 - [Profit and Loss (P&L) Report by Markets](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Markets.pdf)
-- [Gross Margin (GM%) for (sub_zones) Report by Quarters](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Markets.pdf)
+- [Gross Margin (GM%) for (sub_zones) Report by Quarters](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/GM%20%25%20by%20Quarters%20by%20Subzone%20by%20Aditya.pdf)

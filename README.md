@@ -54,5 +54,5 @@ This project not only allowed me to apply my technical skills but also provided 
 - [Market Performance VS Sales Targets Report](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20Vs%20Target%20Report%20By%20Aditya.pdf)
 - [Profit and Loss (P&L) Report by Fiscal Year](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20FY%20By%20Aditya.pdf)
 - [Profit and Loss (P&L) Report by Months](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Months.pdf)
-- [Profit and Loss (P&L) Report by Markets](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Markets.pdf)
+- [Profit and Loss (P&L) Report by Markets](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Market%20By%20Aditya.pdf)
 - [Gross Margin (GM%) for (sub_zones) Report by Quarters](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/GM%20%25%20by%20Quarters%20by%20Subzone%20by%20Aditya.pdf)

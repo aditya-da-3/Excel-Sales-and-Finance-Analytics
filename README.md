@@ -1,22 +1,75 @@
-# Project Objectives
+# Atliq Hardware Reports
 
 This project is focused on achieving the following key objectives:
 
-## Sales Report
+## Introduction
 
-1. **Customer Performance Report:**
-   - Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
+Atliq Hardware sells a wide range of hardware products, including personal computers, printers, and accessories. They manufacture their own products and reach customers through major retailers like Croma and Best Buy, as well as online platforms like Flipkart and Amazon. These channels help make Atliq's products easily available to the general public.
 
-2. **Market Performance and Sales Targets Comparison:**
-   - Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
+## Problem Statement
 
-## Finance Report
+To Develop interactive pivot tables for making Sales and Finance Analytics Report to help Atliq Hardware gain insights for better decision-making and strategy planning.
 
-1. **Profit and Loss (P&L) Reports by Fiscal Year and Months:**
-   - Generate Profit and Loss reports categorized by fiscal year and months to evaluate financial performance over different time frames.
+## Sales Analysis
 
-2. **Profit and Loss (P&L) Reports by Markets:**
-   - Create Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous periods.
+### Objectives
+
+1. **Customer Performance Report:** Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
+
+2. **Market Performance and Sales Targets Comparison:** Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
+
+3. **Top 10 Products with Sales Increase:** Identify which products had the biggest increase in sales from 2020 to 2021.
+
+4. **Division Sales Report:** Create a report showing total revenue in 2020 and 2021 and how much sales grew.
+
+5. **Top and Bottom 5 Sold Products:** Identify the top 5 and bottom 5 products sold by quantity.
+
+6. **New Products in 2021:** List new products Atliq started selling in 2021.
+
+7. **Top 5 Sales Countries in 2021:** Identify the five countries with the highest sales in 2021.
+
+### Insights
+
+1. **Customer Net Sales Performance Report:** Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
+
+2. **Market Performance vs Sales Targets Comparison:** Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
+
+3. **Top 10 Products with Sales Increase:** The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
+
+4. **Division Sales Report:** - PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.
+                              -  Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
+                              - Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
+
+5. **Top and Bottom 5 Sold Products**
+   - **Top 5 Products by Quantity:** Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
+   - **Bottom 5 Products by Quantity:** Insights into underperforming products and considerations for adjustments.
+
+6. **New Products in 2021:** 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
+
+7. **Top 5 Sales Countries in 2021:** - India led with $161.3 million in sales.
+                                      - Strong sales also noted in the USA, South Korea, the UK, and Canada.
+
+## Finance Analysis
+
+### Objectives
+
+1. **Yearly Profit and Loss (P&L) Report:** Financial performance breakdown for each fiscal year.
+
+2. **Monthly Profit and Loss (P&L) Comparison:** Financial performance trends throughout the year.
+
+3. **Market-Specific Profit and Loss (P&L) Report:** Performance breakdown for each market.
+
+4. **Quarterly Gross Margin Percentage (GM%) by Sub_Zone:** Profitability view by geographic area.
+
+### Insights
+
+1. **Yearly Profit and Loss (P&L) Report:** - Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
+
+2. **Monthly Profit and Loss (P&L) Comparison:** - Significant sales growth in 2021 with stable profit margins despite increased costs.
+
+3. **Market-Specific Profit and Loss (P&L) Report:** - Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
+
+4. **Quarterly Gross Margin Percentage (GM%) by Sub_Zone:** - Variations in profit margins by region, aiding in performance assessments and strategic decisions.
 
 # Lessons Learned
 

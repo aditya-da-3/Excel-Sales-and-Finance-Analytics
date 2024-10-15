@@ -103,9 +103,14 @@ This project not only allowed me to apply my technical skills but also provided 
 
 ## Report Links
 
-- [Customer Performance Report](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report%20By%20Aditya.pdf)
+- [Customer Performance Report](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report%20by%20Aditya.pdf)
 - [Market Performance VS Sales Targets Report](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20Vs%20Target%20Report%20By%20Aditya.pdf)
-- [Profit and Loss (P&L) Report by Fiscal Year](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20FY%20By%20Aditya.pdf)
-- [Profit and Loss (P&L) Report by Months](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Month%20By%20Aditya.pdf)
-- [Profit and Loss (P&L) Report by Markets](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Market%20By%20Aditya.pdf)
-- [Gross Margin (GM%) for (sub_zones) Report by Quarters](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/GM%20%25%20by%20Quarters%20by%20Subzone%20by%20Aditya.pdf)
+- [Top 10 Products with Sales Increase](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/Top%2010%20Products%20By%20Aditya.pdf)
+- [Division Sales Report](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/Division%20Level%20Report%20Perfect%20by%20Aditya.pdf)
+- [Top and Bottom 5 Sold Products](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/Top%20%26%20Bottom%205%20Products%20by%20Aditya.pdf)
+- [New Products in 2021](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/New%20Products%202021%20by%20Aditya.pdf)
+- [Top 5 Sales Countries in 2021](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/Top%205%20Countries%20%20Aditya.pdf)
+- [Profit and Loss (P&L) Report by Fiscal Year](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20by%20FY%20by%20Aditya.pdf)
+- [Profit and Loss (P&L) Report by Months](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20by%20FY%20months%20by%20Aditya.pdf)
+- [Profit and Loss (P&L) Report by Markets](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20by%20Market%20%20by%20Aditya.pdf)
+- [Gross Margin (GM%) for (sub_zones) Report by Quarters](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/Gm%20%25%20by%20Quarters%20by%20Aditya.pdf)

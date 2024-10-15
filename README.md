@@ -71,37 +71,37 @@ To Develop interactive pivot tables for making Sales and Finance Analytics Repor
 
 4. **Quarterly Gross Margin Percentage (GM%) by Sub_Zone:** - Variations in profit margins by region, aiding in performance assessments and strategic decisions.
 
-# Lessons Learned
+## Lessons Learned
 
 Through the completion of this project, I gained valuable insights and developed several skills, both technical and soft skills. Here's what I learned:
 
-## Technical Skills
+### Technical Skills
 
 - **Data Analysis Techniques:** Utilized ETL (Extract, Transform, Load) methodology for processing data efficiently.
 - **Power Query:** Demonstrated proficiency in generating a date table and deriving fiscal months and quarters.
 - **Power Pivot:** Established data model relationships and incorporated supplementary data effectively.
 - **DAX (Data Analysis Expressions):** Used DAX to create calculated columns for advanced analytics.
 
-## Soft Skills
+### Soft Skills
 
 - **Report Design:** Developed a refined understanding of designing user-centric reports with empathy in mind.
 - **Optimization:** Acquired skills in optimizing report generation through meticulous fine-tuning.
 - **Systematic Approach:** Developed a systematic approach to devising a report-building plan, enhancing efficiency.
 
-## Project Management
+### Project Management
 
 - **Strategic Thinking:** Aligned financial planning with strategic goals, contributing to a comprehensive understanding of organizational financial outlook.
 - **Communication:** Improved communication skills by presenting complex financial data in a clear and understandable format.
 
-## Continuous Learning
+### Continuous Learning
 
 - **Adaptability:** Embraced new tools and techniques, showcasing adaptability in a dynamic work environment.
 
-## Conclusion
+### Conclusion
 
 This project not only allowed me to apply my technical skills but also provided a platform for continuous learning and improvement. The experience gained is instrumental in my journey as a data professional, and I look forward to applying these skills in future projects.
 
-# Report Links
+## Report Links
 
 - [Customer Performance Report](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report%20By%20Aditya.pdf)
 - [Market Performance VS Sales Targets Report](https://github.com/aditya-da-3/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20Vs%20Target%20Report%20By%20Aditya.pdf)
